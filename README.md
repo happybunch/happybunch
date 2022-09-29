@@ -7,7 +7,38 @@
 **happybunch/happybunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-add email + social (linkedIn) !!!!!!!!!!!!
+To Add:
+Hi, I am ... => intro text 
+I am a front-end developer...
+- 🌱 I’m currently learning everything related to Javascript
+- ⚡ Fun fact: ...
+
+PORTFOLIO
+happybunch.design
+
+
+MAIL or CONNECT WITH ME
+leila@happybunch.design
+
+
+SOCIAL
+linkedin
+instagram
+
+
+LANGUAGES & TOOLS 
+- visual codes (image)
+- html5
+- css
+- sass
+- tailwindcss
+- javascript
+- react
+- next
+- wordpress
+- php
+
+
 
 
 Here are some ideas to get you started:
